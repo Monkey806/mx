@@ -1597,3 +1597,15 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Agw4ccLO9t3H47cAWawfrg", "kid":"YXZG0/JSIx30sw6kA8+G6A" },{ "kty":"oct", "k":"Agw4ccLO9t3H47cAWawfrg", "kid":"YXZG0/JSIx30sw6kA8+G6A" },{ "kty":"oct", "k":"t6lSbgtt5cVkPtblTQAnAA", "kid":"ICECiqNSIx30sw6kA8+G6A" },{ "kty":"oct", "k":"fQevZeg884zHVeUjD3f4cw", "kid":"aGUCiqNSIx30sw6kA8+G6A" }], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| VTVcab ON" tvg-logo="https://i.ibb.co/1mCxSX7/ksport1.png", K+ SPORT1 (VTVcab)
+
+#EXTVLCOPT:http-user-agent="CloudTV"
+
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="💚| VTVcab ON" tvg-logo="https://i.ibb.co/swFD2ps/ksport2.png", K+ SPORT2 (VTVcab)
+
+#EXTVLCOPT:http-user-agent="CloudTV"
+
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
