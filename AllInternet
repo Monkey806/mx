@@ -434,14 +434,11 @@ http://vnesech2.duckdns.org:4022/udp/225.1.2.244:30120
 #KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 #https:///dl.dropboxusercontent.com/s/tvo7w5by0xot23g//   																						 ㅤ
-#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/sip0qvjpisrp6fr//
-#EXTINF:-1 tvg-id="cinemaworldhd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/ss7qbgg/Cinema-World-cc.png" group-title="🎞| Giải trí",▶️| Cinema World
-http://cdn-cf.vthanhtivi.pw/fptplay/cinemaworld/bitrate_5000.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/sip0qvjpisrp6fr//   																						 ㅤ
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🎞| Giải trí" tvg-logo="https://i.ibb.co/C6npfxN/cc-Cinemax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
-#https:///dl.dropboxusercontent.com/s/rrhlwb1t08b21bl//
+#https:///dl.dropboxusercontent.com/s/rrhlwb1t08b21bl//   		
 #EXTINF:-1 tvg-id="warnertvhd" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/xJ6MN0M/warner.png" group-title="🎞| Giải trí",▶️| Warner TV
 http://cdn-cf.vthanhtivi.pw/fptplay/warner-tv/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎞| Giải trí" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
@@ -523,9 +520,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 tvg-name="K-Pop – Pluto TV" tvg-logo="https://i.ibb.co/gr4Bfp8/Kpop.png" group-title="🎶| Music",💿| K-Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b75fb0a68400074b86fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="newkpop" group-title="🎶| Music" tvg-logo="https://i.ibb.co/17JZ5D3/unnamed.png",New-Kpop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-http://lxls.mx:80/Arthuroliveira/Ita198500/48604
+https://tinyurl.com/TiviMe-NewKPop
 #EXTINF:0 group-title="🎶| Music" tvg-logo="https://i.ibb.co/4K4mWsy/modern.png",💿| Modern Talking
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/14004/index.m3u8
